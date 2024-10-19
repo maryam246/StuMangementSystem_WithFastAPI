@@ -19,7 +19,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/maryam246/StuMangementSystem_WithFastAPI.git
 ```
 
 2. Navigate to the project directory:
@@ -50,7 +50,8 @@ MONGODB_LINK=<your-mongodb-connection-string>
 1. Run the FastAPI application:
 
 ```bash
-uvicorn main:app --reload```
+uvicorn main:app --reload
+```
 
 2. Open your browser and go to:
 ```bash
